@@ -1,0 +1,15 @@
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/bin/Debug/net7.0/morskoyboi
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/bin/Debug/net7.0/morskoyboi.deps.json
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/bin/Debug/net7.0/morskoyboi.runtimeconfig.json
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/bin/Debug/net7.0/morskoyboi.dll
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/bin/Debug/net7.0/morskoyboi.pdb
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/morskoyboi.csproj.AssemblyReference.cache
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/morskoyboi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/morskoyboi.AssemblyInfoInputs.cache
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/morskoyboi.AssemblyInfo.cs
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/morskoyboi.csproj.CoreCompileInputs.cache
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/morskoyboi.dll
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/refint/morskoyboi.dll
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/morskoyboi.pdb
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/morskoyboi.genruntimeconfig.cache
+/Users/egorkirichenko/Projects/C#/PR_GAI/morskoyboi/obj/Debug/net7.0/ref/morskoyboi.dll
